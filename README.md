@@ -7,7 +7,7 @@ Our primary goal is to make it possible for you to learn on your own. We want yo
 
 ### Initial Education Plan
 ##### Getting Started, Hello World!
-  - [Hello World](https://github.com/omegahorizontech/introductory-programming/lessons/blob/master/Hello World.md)
+  - [Hello World](https://github.com/omegahorizontech/introductory-programming/blob/master/lessons/Hello%20World.md)
     - Topics: Python Installation, Python, Hello World Example, Operating System Concept
   - Install An IDE
   - python math, compound interest
