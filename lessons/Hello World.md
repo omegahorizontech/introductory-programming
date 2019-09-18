@@ -63,7 +63,7 @@ There are different instructions for different operating systems. We'll detail W
   >>> print('Hello World')
   Hello World
   ```
-5. Congratulations! You've written a 'Hello World' program in Python. Now's it time to become a better programmer! The next lesson is [Install an IDE](https://github.com/omegahorizontech/introductory-programming/lessons/blob/master/Install%20An%20IDE.md). From here on out, we're going to be less verbose in our instructions so that you get the hang using the Internet to answer other questions we might miss.
+5. Congratulations! You've written a 'Hello World' program in Python. Now's it time to become a better programmer! The next lesson is [Install an IDE](https://github.com/omegahorizontech/introductory-programming/blob/master/lessons/Install%20An%20IDE.md). From here on out, we're going to be less verbose in our instructions so that you get the hang using the Internet to answer other questions we might miss.
 
 ---
 

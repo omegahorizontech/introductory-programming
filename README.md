@@ -9,7 +9,7 @@ Our primary goal is to make it possible for you to learn on your own. We want yo
 ##### Getting Started, Hello World!
   - [Hello World](https://github.com/omegahorizontech/introductory-programming/blob/master/lessons/Hello%20World.md)
     - Topics: Python Installation, Python, Hello World Example, Operating System Concept
-  - Install An IDE
+  - [Install An IDE](https://github.com/omegahorizontech/introductory-programming/blob/master/lessons/Install%20An%20IDE.md)
   - python math, compound interest
   - introduction to GitHub
   - guess high or low game
